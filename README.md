@@ -1,0 +1,1 @@
+Cronômetro criado usando Python e a biblioteca Timer
